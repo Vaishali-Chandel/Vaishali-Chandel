@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Java
 - 🌱 I’m currently learning ... SpringBoot
 - 💞️ I’m looking to collaborate on ... Microservices project
-- 📫 How to reach me ... vaishali.cndl29@gmail.com
+- 📫 How to reach me ... vaishali.chandel@mavenwave.com
 
 <!---
 Vaishali-Chandel/Vaishali-Chandel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
